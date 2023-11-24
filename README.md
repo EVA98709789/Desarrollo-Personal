@@ -1,2 +1,2 @@
 # Desarrollo-Personal
-Un tema importante de saber
+En esta página web vas a poner informarte mejor sobre el tema del desarrollo personal 
